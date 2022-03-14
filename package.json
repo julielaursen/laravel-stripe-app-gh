@@ -39,6 +39,7 @@
         ]
     },
     "dependencies": {
-        "@babel/plugin-syntax-jsx": "^7.16.7"
+        "@babel/plugin-syntax-jsx": "^7.16.7",
+        "@babel/preset-react": "^7.16.7"
     }
 }

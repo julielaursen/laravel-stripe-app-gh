@@ -27,17 +27,6 @@
         "vue-jest": "^3.0.7",
         "vue-template-compiler": "^2.6.14"
     },
-    "jest": {
-        "transform": {
-            "^.+\\.vue$": "vue-jest",
-            "^.+\\.js$": "babel-jest"
-        },
-        "testEnvironment": "jsdom",
-        "collectCoverage": true,
-        "coverageReporters": [
-            "json"
-        ]
-    },
     "dependencies": {
         "@babel/plugin-syntax-jsx": "^7.16.7",
         "@babel/preset-react": "^7.16.7"

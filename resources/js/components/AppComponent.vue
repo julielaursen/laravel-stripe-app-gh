@@ -1,11 +1,11 @@
 <template>
-    <div class="container">
-        <h1>Hello!</h1>
-    </div>
+  <div class="container">
+    <h1>Hello!</h1>
+  </div>
 </template>
 
 <script>
-    export default {
-        name: "AppComponet"
-    }
+export default {
+  name: "AppComponet",
+};
 </script>

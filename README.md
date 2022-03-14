@@ -1,3 +1,5 @@
+## README
+
 You will need to enter into the "sail" docker to run a few setup commands. Change to your working app directory and run composer update.
 
 cd /srv/app-stripe-test
@@ -11,3 +13,5 @@ To pull down some initial data you may use: php artisan stripe:charges 50. (The 
 If all goes well, the output should be something like:
 
 [2022-01-09 14:12:31] - Total records processed: 16
+
+[![codecov](https://codecov.io/gh/julielaursen/laravel-stripe-app-gh/branch/main/graph/badge.svg?token=6ILOEVHJNX)](https://codecov.io/gh/julielaursen/laravel-stripe-app-gh)
